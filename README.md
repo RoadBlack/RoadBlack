@@ -2,7 +2,7 @@
 
 🎯 Future **Security Engineer** | 🛡️ GRC-turned-Technical | 🧠 Project-Based Learner
 
-I'm currently working as an IT Security Officer and actively transitioning into a **Security Engineer** role by building hands-on projects focused on system hardening, enterprise network design, and automation.
+I'm currently working as an IT Security Officer and actively transitioning into a **Security Engineer** or **devsecops** role by building hands-on projects focused on system hardening, enterprise network design, and automation.
 
 I believe that strong security starts with understanding the basics: how systems work, where they break, and how to defend them — manually first, then with automation.
 
