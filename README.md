@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Patryk Mroczek!
 
-🎯 Future **Security Engineer** | 🛡️ GRC-turned-Technical | 🧠 Project-Based Learner
+🎯 Future **Security Engineer** | 🧠 Project-Based Learner
 
 I'm currently working as an IT Security Officer and actively transitioning into a **Security Engineer** or **devsecops** role by building hands-on projects focused on system hardening, enterprise network design, and automation.
 
