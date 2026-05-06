@@ -48,7 +48,7 @@ A simulated mid-sized enterprise network project with focus on **segmentation**,
 
 ### 🧭 Road to Security Engineering
 
-In 2025, I’m focusing on:
+In 2026, I’m focusing on:
 
 - 📚 Mastering **Linux security**, **network design**, and **automation**
 - 🧪 Building labs to learn **incident response**, **SIEM**, and **detection engineering**
