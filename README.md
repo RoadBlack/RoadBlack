@@ -1,69 +1,150 @@
-## 👋 Hi there, I'm Patryk Mroczek!
+<h1 align="center">Hi, I'm Patryk Mroczek 👋</h1>
 
-🎯 Future **Security Engineer** | 🧠 Project-Based Learner
+<h3 align="center">
+IT Security Officer transitioning into DevSecOps / Cloud Security / SRE
+</h3>
 
-I'm currently working as an IT Security Officer and actively transitioning into a **Security Engineer** or **devsecops** role by building hands-on projects focused on system hardening, enterprise network design, and automation.
-
-I believe that strong security starts with understanding the basics: how systems work, where they break, and how to defend them — manually first, then with automation.
-
----
-
-### 🔧 What I Work With
-
-**Security & OS Hardening:**
-![Linux](https://img.shields.io/badge/Linux_Security-000000?style=flat-square&logo=linux&logoColor=white)
-![OpenSCAP](https://img.shields.io/badge/OpenSCAP-003366?style=flat-square&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
-
-**Networking & Infrastructure:**
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1D76DB?style=flat-square&logo=cisco&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-FE5000?style=flat-square&logo=firewall&logoColor=white)
-![WireShark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-**Other Tools:**
-![Bash](https://img.shields.io/badge/Bash_Scripting-1f1f1f?style=flat-square&logo=gnubash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-### 🛠 My Projects
-
-#### 🔐 [Linux CIS Hardening Lab (Rocky Linux 9)](https://github.com/RoadBlack/linux-cis-hardening-ansible)
-Hands-on lab to manually and automatically harden a Rocky Linux 9 system using the **CIS Benchmarks**.
-
-- ✅ Manual CIS hardening with documentation
-- ✅ OpenSCAP scanning and remediation
-- ⚙️ Ongoing automation with Ansible (SSH, PAM, system roles)
-- 📚 Learnings: Linux security foundations, CIS controls, why manual steps matter before automation
-
-#### 🧠 [Enterprise Network Security Design](https://github.com/RoadBlack/NetworkProjects)
-A simulated mid-sized enterprise network project with focus on **segmentation**, **firewalling**, and **redundancy**:
-
-- 🔒 Secure network architecture for medium-sized business
-- 🔁 HAProxy, VLANs, pfSense-based firewalls
-- 🧩 Clear visual topology + configuration backups
-- 🛡️ Focused on real-world security practices in routing, switching, and isolation
-
----
-
-### 🧭 Road to Security Engineering
-
-In 2026, I’m focusing on:
-
-- 📚 Mastering **Linux security**, **network design**, and **automation**
-- 🧪 Building labs to learn **incident response**, **SIEM**, and **detection engineering**
-- ☁️ Adding cloud (AWS) + container security (Docker/K8s) to my toolbelt
-- 👨‍💻 Sharing my work here to stay accountable and help others learn
-
----
-
-### 📫 Let's connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/patryk-mroczek/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Patryk%20Mroczek-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/RoadBlack"><img alt="GitHub" src="https://img.shields.io/badge/-@RoadBlack-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<p align="center">
+  <a href="https://github.com/RoadBlack">
+    <img src="https://img.shields.io/github/followers/RoadBlack?label=GitHub&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.patrykmroczek.pl">
+    <img src="https://img.shields.io/badge/Portfolio-patrykmroczek.pl-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-> 🧠 “If you can’t explain it simply, you don’t understand it well enough.” – Einstein
+## About Me
+
+I'm currently working as an **IT Security Officer** and building a hands-on engineering path toward **DevSecOps, Cloud Security, DevOps and SRE**.
+
+My goal is to connect security knowledge with practical engineering skills:  
+**CI/CD, Infrastructure as Code, cloud security, containers, Kubernetes, automation and observability.**
+
+I believe that good security is not only about policies and audits.  
+It is also about understanding how systems are built, how they fail, and how to automate controls that reduce real risk.
+
+---
+
+## Current Focus
+
+- Building hands-on DevSecOps projects
+- Learning Terraform and Infrastructure as Code
+- Practicing CI/CD security with GitHub Actions
+- Improving Docker, Kubernetes and cloud fundamentals
+- Moving from security governance into technical security engineering
+- Documenting my learning through real projects instead of only collecting certificates
+
+---
+
+## Tech Stack & Tools
+
+### Security & DevSecOps
+
+<p>
+  <img src="https://img.shields.io/badge/DevSecOps-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAST-Semgrep-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secret%20Scanning-Gitleaks-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Container%20Scanning-Trivy-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure%20SDLC-111827?style=for-the-badge" />
+</p>
+
+### Cloud, Infrastructure & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### Containers & Platform Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+</p>
+
+### Programming & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+### Secure CI/CD Pipeline for Containerized Python API
+
+A hands-on DevSecOps project focused on building a secure CI/CD pipeline for a containerized FastAPI application.
+
+**What it demonstrates:**
+
+- Automated testing in GitHub Actions
+- Docker image build
+- Secret scanning with Gitleaks
+- SAST with Semgrep
+- Container vulnerability scanning with Trivy
+- Security gates that fail the pipeline on risky findings
+- Controlled security validation through intentional test failures
+
+**Repository:**  
+[github.com/RoadBlack/secure-ci-cd-python-api](https://github.com/RoadBlack/secure-ci-cd-python-api)
+
+---
+
+### Azure Secure Landing Zone Mini with Terraform
+
+**Status:** Planned / In progress
+
+A cloud security and Infrastructure as Code lab focused on building a small secure Azure environment using Terraform and GitHub Actions.
+
+**Planned scope:**
+
+- Azure Resource Group
+- Virtual Network and Network Security Group
+- Secure Storage Account
+- Azure Key Vault
+- Log Analytics Workspace
+- Terraform modules
+- GitHub Actions validation
+- Checkov IaC security scanning
+- Secret scanning with Gitleaks
+- Security controls documentation
+
+**Goal:**  
+Practice cloud security, Infrastructure as Code, CI/CD validation and DevSecOps controls for Azure infrastructure.
+
+---
+
+### Upcoming Labs
+
+- Secure Kubernetes GitOps Platform with Argo CD, Helm and Kyverno
+- SRE Observability & Incident Response Lab with Prometheus, Grafana and Loki
+- Security Findings Automation Bot using Python and GitHub Issues
+
+---
+
+## Learning Roadmap
+
+```text
+IT Security Officer
+        ↓
+CI/CD Security
+        ↓
+Terraform + Azure
+        ↓
+Cloud Security / DevSecOps
+        ↓
+Kubernetes + GitOps
+        ↓
+SRE / Platform Security
