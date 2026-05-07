@@ -11,7 +11,7 @@ IT Security Officer transitioning into DevSecOps / Cloud Security / SRE
   <a href="https://www.patrykmroczek.pl">
     <img src="https://img.shields.io/badge/Portfolio-patrykmroczek.pl-blue?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/patryk-mroczek)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
