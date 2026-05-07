@@ -132,19 +132,4 @@ Practice cloud security, Infrastructure as Code, CI/CD validation and DevSecOps 
 - SRE Observability & Incident Response Lab with Prometheus, Grafana and Loki
 - Security Findings Automation Bot using Python and GitHub Issues
 
----
 
-## Learning Roadmap
-
-```text
-IT Security Officer
-        ↓
-CI/CD Security
-        ↓
-Terraform + Azure
-        ↓
-Cloud Security / DevSecOps
-        ↓
-Kubernetes + GitOps
-        ↓
-SRE / Platform Security
