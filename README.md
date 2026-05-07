@@ -8,7 +8,7 @@ IT Security Officer transitioning into DevSecOps / Cloud Security / SRE
   <a href="https://github.com/RoadBlack">
     <img src="https://img.shields.io/github/followers/RoadBlack?label=GitHub&style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/patryk-mroczek">
+  <a href="https://linkedin.com/in/patryk-mroczek">
     <img src="https://img.shields.io/badge/Portfolio-patrykmroczek.pl-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://www.linkedin.com/in/patryk-mroczek)">
