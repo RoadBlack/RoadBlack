@@ -1,61 +1,59 @@
 <h1 align="center">Hi, I'm Patryk Mroczek 👋</h1>
 
 <h3 align="center">
-IT Security Officer → DevSecOps / Cloud Security / SRE
+IT Security Officer transitioning into DevSecOps / Cloud Security / SRE
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoadBlack&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/RoadBlack?tab=followers">
-    <img src="https://img.shields.io/github/followers/RoadBlack?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <a href="https://github.com/RoadBlack">
+    <img src="https://img.shields.io/github/followers/RoadBlack?label=GitHub&style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.patrykmroczek.pl">
-    <img src="https://img.shields.io/badge/Portfolio-patrykmroczek.pl-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-patrykmroczek.pl-blue?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="https://linkedin.com/in/patryk-mroczek">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/patryk-mroczek">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm currently working as an **IT Security Officer** and building a hands-on path toward **DevSecOps, Cloud Security, DevOps and SRE**.
+I'm currently working as an **IT Security Officer** and building a hands-on engineering path toward **DevSecOps, Cloud Security, DevOps and SRE**.
 
-My goal is to connect security knowledge with practical engineering skills:
-
-**Security mindset + CI/CD + Infrastructure as Code + Cloud + Containers + Observability**
+My goal is to connect security knowledge with practical engineering skills:  
+**CI/CD, Infrastructure as Code, cloud security, containers, Kubernetes, automation and observability.**
 
 I believe that good security is not only about policies and audits.  
 It is also about understanding how systems are built, how they fail, and how to automate controls that reduce real risk.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- Building practical DevSecOps projects
+- Building hands-on DevSecOps projects
 - Learning Terraform and Infrastructure as Code
 - Practicing CI/CD security with GitHub Actions
-- Improving Azure, Docker, Kubernetes and Linux fundamentals
+- Improving Docker, Kubernetes and cloud fundamentals
 - Moving from security governance into technical security engineering
-- Documenting my learning through real projects, not only certificates
+- Documenting my learning through real projects instead of only collecting certificates
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack & Tools
 
 ### Security & DevSecOps
 
 <p>
-  <img src="https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAST-Semgrep-2F5ADA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Secret%20Scanning-Gitleaks-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Container%20Scanning-Trivy-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Secure%20SDLC-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevSecOps-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAST-Semgrep-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secret%20Scanning-Gitleaks-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Container%20Scanning-Trivy-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure%20SDLC-111827?style=for-the-badge" />
 </p>
 
-### Cloud & Infrastructure
+### Cloud, Infrastructure & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -73,7 +71,7 @@ It is also about understanding how systems are built, how they fail, and how to 
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
-### Programming & APIs
+### Programming & Scripting
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -83,9 +81,9 @@ It is also about understanding how systems are built, how they fail, and how to 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. Secure CI/CD Pipeline for Containerized Python API
+### Secure CI/CD Pipeline for Containerized Python API
 
 A hands-on DevSecOps project focused on building a secure CI/CD pipeline for a containerized FastAPI application.
 
@@ -104,24 +102,7 @@ A hands-on DevSecOps project focused on building a secure CI/CD pipeline for a c
 
 ---
 
-### 2. Linux CIS Hardening with Ansible
-
-A Linux security hardening lab focused on CIS-style controls, OpenSCAP validation and Ansible automation.
-
-**What it demonstrates:**
-
-- Linux security hardening
-- Security baseline thinking
-- Configuration management with Ansible
-- Audit-driven remediation mindset
-- Infrastructure hardening documentation
-
-**Repository:**  
-[github.com/RoadBlack/linux-cis-hardening-ansible](https://github.com/RoadBlack/linux-cis-hardening-ansible)
-
----
-
-### 3. Azure Secure Landing Zone Mini with Terraform
+### Azure Secure Landing Zone Mini with Terraform
 
 **Status:** Planned / In progress
 
@@ -145,53 +126,10 @@ Practice cloud security, Infrastructure as Code, CI/CD validation and DevSecOps 
 
 ---
 
-### 4. Upcoming Labs
-
-Planned projects that will extend this roadmap:
+### Upcoming Labs
 
 - Secure Kubernetes GitOps Platform with Argo CD, Helm and Kyverno
 - SRE Observability & Incident Response Lab with Prometheus, Grafana and Loki
 - Security Findings Automation Bot using Python and GitHub Issues
 
-
 ---
-
-## 🧠 Engineering Mindset
-
-I try to learn by building practical labs that answer real engineering and security questions:
-
-- How can security controls be automated in CI/CD?
-- How can infrastructure be reviewed before deployment?
-- How can cloud misconfigurations be detected early?
-- How can secrets be kept out of source code?
-- How can systems be monitored, debugged and improved?
-- How can security support engineering teams instead of slowing them down?
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoadBlack&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoadBlack&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RoadBlack&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
-
-- Website: [patrykmroczek.pl](https://www.patrykmroczek.pl)
-- GitHub: [github.com/RoadBlack](https://github.com/RoadBlack)
-- LinkedIn: [Add me on LinkedIn](https://linkedin.com/in/patryk-mroczek)
-
-)
-
----
-
-<p align="center">
-  <i>Building my path from IT Security Officer to hands-on DevSecOps / Cloud Security Engineer.</i>
-</p>
