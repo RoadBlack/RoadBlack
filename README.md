@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Patryk Mroczek 👋</h1>
 
 <h3 align="center">
-IT Security Officer transitioning into DevSecOps / Cloud Security / SRE
+IT Security Officer focused on bridging security governance with practical DevSecOps, cloud security and automation.
 </h3>
 
 <p align="center">
